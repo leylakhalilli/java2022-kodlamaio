@@ -1,4 +1,4 @@
-package oopWithNLayereApp.core.loging;
+package oopWithNLayereApp.core.logging;
 
 public class FileLogger implements Logger {
     @Override

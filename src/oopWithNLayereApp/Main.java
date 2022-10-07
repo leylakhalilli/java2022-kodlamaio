@@ -1,10 +1,9 @@
 package oopWithNLayereApp;
 
 import oopWithNLayereApp.business.ProductManager;
-import oopWithNLayereApp.core.loging.DatabaseLogger;
-import oopWithNLayereApp.core.loging.FileLogger;
-import oopWithNLayereApp.core.loging.Logger;
-import oopWithNLayereApp.dataAccess.HibernateProductDao;
+import oopWithNLayereApp.core.logging.DatabaseLogger;
+import oopWithNLayereApp.core.logging.FileLogger;
+import oopWithNLayereApp.core.logging.Logger;
 import oopWithNLayereApp.dataAccess.JdbcProductDao;
 import oopWithNLayereApp.entities.Product;
 

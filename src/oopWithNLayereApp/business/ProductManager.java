@@ -1,7 +1,6 @@
 package oopWithNLayereApp.business;
 
-import oopWithNLayereApp.core.loging.Logger;
-import oopWithNLayereApp.dataAccess.JdbcProductDao;
+import oopWithNLayereApp.core.logging.Logger;
 import oopWithNLayereApp.dataAccess.ProductDao;
 import oopWithNLayereApp.entities.Product;
 
